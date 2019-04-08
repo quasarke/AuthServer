@@ -1,0 +1,9 @@
+C:\Users\willi\Documents\VTS Documents\authserver\IdentityServer4.WsFederation\bin\Debug\netcoreapp2.0\IdentityServer4.WsFederation.deps.json
+C:\Users\willi\Documents\VTS Documents\authserver\IdentityServer4.WsFederation\bin\Debug\netcoreapp2.0\IdentityServer4.WsFederation.dll
+C:\Users\willi\Documents\VTS Documents\authserver\IdentityServer4.WsFederation\bin\Debug\netcoreapp2.0\IdentityServer4.WsFederation.pdb
+C:\Users\willi\Documents\VTS Documents\authserver\IdentityServer4.WsFederation\obj\Debug\netcoreapp2.0\IdentityServer4.WsFederation.csprojAssemblyReference.cache
+C:\Users\willi\Documents\VTS Documents\authserver\IdentityServer4.WsFederation\obj\Debug\netcoreapp2.0\IdentityServer4.WsFederation.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\VTS Documents\authserver\IdentityServer4.WsFederation\obj\Debug\netcoreapp2.0\IdentityServer4.WsFederation.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\VTS Documents\authserver\IdentityServer4.WsFederation\obj\Debug\netcoreapp2.0\IdentityServer4.WsFederation.AssemblyInfo.cs
+C:\Users\willi\Documents\VTS Documents\authserver\IdentityServer4.WsFederation\obj\Debug\netcoreapp2.0\IdentityServer4.WsFederation.dll
+C:\Users\willi\Documents\VTS Documents\authserver\IdentityServer4.WsFederation\obj\Debug\netcoreapp2.0\IdentityServer4.WsFederation.pdb
